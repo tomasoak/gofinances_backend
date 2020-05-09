@@ -6,7 +6,7 @@
 ### Descrição :memo: 
 Aplicação que armazena transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
 
-### Tecnologias
+### Tecnologias :rocket:
 - **[Node.js](https://nodejs.org/en/)** - versão 12.16.1
 - **[PostgreSQL](https://www.postgresql.org/)** - versão 12.2
 - **[Docker](https://docs.docker.com/)**
@@ -14,8 +14,10 @@ Aplicação que armazena transações financeiras de entrada e saída e permitir
 
 ### O que a aplicação é capaz de fazer 
 - Criar transação
-  - Entrada ou Saída 
+  - Inserir Entrada ou saída monetária
+  - Não permitir saída maior que entrada
   - Identificar categoria da transação
+  - Realizar balanço financeiro
 - Remover transação  
 - Importar arquivo .CSV com informações de transação
 
