@@ -3,7 +3,7 @@
                   
 #### Aplicação somente disponível em ambiente de desenvolvimento ####
 
-## O que a aplicação é capaz de fazer :checkred_flag:
+## O que a aplicação é capaz de fazer :checkered_flag:
 - Criar transação
   - Entrada ou Saída 
   - Identificar categoria da transação
