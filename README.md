@@ -25,22 +25,22 @@ Aplicação que armazena transações financeiras de entrada e saída e permitir
 ### Como rodar a aplicação
 No terminal, digite: </br> 
 ``````
-```git clone https://github.com/tomasoak/typeorm-upload-csvfile.git```
+git clone https://github.com/tomasoak/typeorm-upload-csvfile.git
 ``````
 
 Entre na pasta do projeto </br> 
 ``````
-```cd gostack-typeorm-upload```
+cd gostack-typeorm-upload
 ``````
 
 Instale as dependências </br> 
 ``````
-```yarn```
+yarn
 ``````
 
 Execute a aplicação </br> 
 ``````
-```yarn dev:server```
+yarn dev:server
 ``````
 
 
